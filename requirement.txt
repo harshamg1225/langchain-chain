@@ -1,0 +1,26 @@
+# langchain Core
+
+langchain
+langchain-Core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Hugging face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Envirnomner variable management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+pandas
+scikit-learn
+
+
+# streamlit
+streamlit
+pydantic
